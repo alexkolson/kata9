@@ -1,0 +1,27 @@
+{
+  "name": "ako-kata9",
+  "version": "1.0.0",
+  "description": "My implementation of kata9 from codekata.com",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkolson/kata9.git"
+  },
+  "keywords": [
+    "codekata",
+    "kata9"
+  ],
+  "author": "Alex Kellen Olson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexkolson/kata9/issues"
+  },
+  "homepage": "https://github.com/alexkolson/kata9#readme"
+}
